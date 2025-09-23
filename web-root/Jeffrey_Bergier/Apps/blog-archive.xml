@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Apps</title>
+    <link>http://www.jeffburg.com/Jeffrey_Bergier/Apps</link>
+    <description>I would not consider myself the best developer out there, but I enjoy developing for Apple platforms. So over the years I have created several apps. Some are good, some are bad. Most are a learning exercise for me. The most important thing is that I really enjoyed making them. So please enjoy.</description>
+    <item>
+      <title>WaterMe: Gardening Reminders</title>
+      <link>http://www.jeffburg.com/Jeffrey_Bergier/Apps/Entries/2016/4/15_WaterMe__Gardening_Reminders.html</link>
+      <guid isPermaLink="false">fe7b57b5-1bdf-4ec3-aa3a-5414329956b6</guid>
+      <pubDate>Fri, 15 Apr 2016 12:00:24 +0900</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://www.jeffburg.com/Jeffrey_Bergier/Apps/Entries/2016/4/15_WaterMe__Gardening_Reminders.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://www.jeffburg.com/Jeffrey_Bergier/Apps</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>
