@@ -2,19 +2,19 @@
 <rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
   <channel>
     <title>Apps</title>
-    <link>http://www.jeffburg.com/Jeffrey_Bergier/Apps</link>
+    <link>http://staging.jeffburg.com/Jeffrey_Bergier/Apps</link>
     <description>I would not consider myself the best developer out there, but I enjoy developing for Apple platforms. So over the years I have created several apps. Some are good, some are bad. Most are a learning exercise for me. The most important thing is that I really enjoyed making them. So please enjoy.</description>
     <item>
       <title>WaterMe: Gardening Reminders</title>
-      <link>http://www.jeffburg.com/Jeffrey_Bergier/Apps/Entries/2016/4/15_WaterMe__Gardening_Reminders.html</link>
+      <link>http://staging.jeffburg.com/Jeffrey_Bergier/Apps/Entries/2016/4/15_WaterMe__Gardening_Reminders.html</link>
       <guid isPermaLink="false">fe7b57b5-1bdf-4ec3-aa3a-5414329956b6</guid>
       <pubDate>Fri, 15 Apr 2016 12:00:24 +0900</pubDate>
       <description>&lt;a href="https://itunes.apple.com/app/id1089742494?mt=8"&gt;App Store&lt;/a&gt;&lt;br/&gt;&lt;a href="Entries/2016/4/15_WaterMe__Gardening_Reminders_files/apps-video-waterme.mp4"&gt;Demo Video&lt;/a&gt;&lt;br/&gt;&lt;a href="https://github.com/jeffreybergier/WaterMe"&gt;Github&lt;/a&gt;&lt;br/&gt;WaterMe was my first app that was 100% a CRUD app. CRUD basically means that its a database app. It Creates, Reads, Updates, and Deletes database entries. But it displays them in a nice way with really great animations. The premise of the app is that, unlike reminders style apps, this app only gives you one reminder per day letting you know which plants need to be watered that day.&lt;br/&gt;&lt;br/&gt;Because of this premise, I had to do quite a lot of complex date math to figure out which day a plant need to be watered. If your a developer, you know this can be complex because days and time zones are pretty complex. As well, because I don&#x2019;t use a Push Notification server, I need to schedule what Apple calls &#x201C;Local Notifications.&#x201D; This basically means that any time the database changes, I need to look about 14 days ahead and figure out, for every day, if a plant needs to be watered and which one, and then schedule 14 notifications. Anyway, I am going too deep.&lt;br/&gt;&lt;br/&gt;But this app has been on the app store since 2016 and has gone through many updates and changes to improve as new features are added into the OS, such as drag and drop which you can see in the screenshot to the left. Over the years I also enable Core Data to CloudKit syncing for automatic and reliable iCloud sync between devices.</description>
       <iweb:image href="Media/object003.png"></iweb:image>
-      <iweb:comment enabled="0" count="0" link="http://www.jeffburg.com/Jeffrey_Bergier/Apps/Entries/2016/4/15_WaterMe__Gardening_Reminders.html#comment_layer"></iweb:comment>
+      <iweb:comment enabled="0" count="0" link="http://staging.jeffburg.com/Jeffrey_Bergier/Apps/Entries/2016/4/15_WaterMe__Gardening_Reminders.html#comment_layer"></iweb:comment>
     </item>
     <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
-    <iweb:baseURL>http://www.jeffburg.com/Jeffrey_Bergier/Apps</iweb:baseURL>
+    <iweb:baseURL>http://staging.jeffburg.com/Jeffrey_Bergier/Apps</iweb:baseURL>
     <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
   </channel>
 </rss>
