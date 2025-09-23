@@ -48,9 +48,6 @@
 .style_1 {
     padding: 4px;
 }
-.style_2 {
-    padding: 0px;
-}
 .paragraph_style_2 {
     color: rgb(255, 255, 255);
     font-family: 'ArialMT', 'Arial', sans-serif;
@@ -95,15 +92,15 @@
     margin: 0px;
     opacity: 1.00;
 }
-.style_External_410_661 {
-    position: relative;
-}
-.style_External_290_1041 {
-    position: relative;
-}
 .style_SkipStroke_5 {
     background: transparent;
     opacity: 1.00;
+}
+.style_External_410_661 {
+    position: relative;
+}
+.style_External_290_1015 {
+    position: relative;
 }
 .style_External_410_24 {
     position: relative;
@@ -208,7 +205,7 @@
 .Normal_External_410_661 {
     position: relative;
 }
-.Normal_External_290_1041 {
+.Normal_External_290_1015 {
     position: relative;
 }
 .Normal_External_410_24 {
